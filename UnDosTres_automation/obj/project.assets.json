@@ -1,0 +1,299 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
+        "type": "package",
+        "dependencies": {
+          "Selenium.WebDriver": "3.10.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/SeleniumExtras.WaitHelpers.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/SeleniumExtras.WaitHelpers.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Selenium.Firefox.WebDriver/0.27.0": {
+        "type": "package",
+        "build": {
+          "build/Selenium.Firefox.WebDriver.targets": {}
+        }
+      },
+      "Selenium.Opera.WebDriver/2.30.0": {
+        "type": "package"
+      },
+      "Selenium.Support/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Selenium.WebDriver": "4.3.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/WebDriver.Support.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/WebDriver.Support.dll": {}
+        }
+      },
+      "Selenium.WebDriver/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "lib/netstandard2.1/WebDriver.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/WebDriver.dll": {}
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/104.0.5112.7900": {
+        "type": "package",
+        "build": {
+          "build/Selenium.WebDriver.ChromeDriver.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
+      "sha512": "xc6jVVl5ymgk3ZNWnC/KHxkEup1QpnwYbrwF+NQoCOGERsD8YMlLwmsX4lGhLXCLo/YQTRTIwlKCN9E/doGUNg==",
+      "type": "package",
+      "path": "dotnetseleniumextras.waithelpers/3.11.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+        "dotnetseleniumextras.waithelpers.nuspec",
+        "lib/net35/SeleniumExtras.WaitHelpers.dll",
+        "lib/net40/SeleniumExtras.WaitHelpers.dll",
+        "lib/net45/SeleniumExtras.WaitHelpers.dll",
+        "lib/netstandard2.0/SeleniumExtras.WaitHelpers.dll"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "Selenium.Firefox.WebDriver/0.27.0": {
+      "sha512": "HwCaTaa+snzkLF7ZVaxKSmdttKm+KXT7HOY8c1q8p9E7x05+WHqw5XaZjUGFytVT1+0FkgUoH/u/I+csPLeJAg==",
+      "type": "package",
+      "path": "selenium.firefox.webdriver/0.27.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Selenium.Firefox.WebDriver.targets",
+        "driver/geckodriver.exe",
+        "selenium.firefox.webdriver.0.27.0.nupkg.sha512",
+        "selenium.firefox.webdriver.nuspec"
+      ]
+    },
+    "Selenium.Opera.WebDriver/2.30.0": {
+      "sha512": "CHJpuU2QBsoXvorLpaqlTyMA2krzb9nXMnB68+ZjBh7+8VHbzRoCjmPW938i1qENoz7Ka7brc1JpX8aiIFGN2w==",
+      "type": "package",
+      "path": "selenium.opera.webdriver/2.30.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Selenium.WebDriver.OperaDriver.targets",
+        "driver/linux64/operadriver",
+        "driver/mac64/operadriver",
+        "driver/win32/operadriver.exe",
+        "driver/win64/operadriver.exe",
+        "selenium.opera.webdriver.2.30.0.nupkg.sha512",
+        "selenium.opera.webdriver.nuspec"
+      ]
+    },
+    "Selenium.Support/4.3.0": {
+      "sha512": "78f5qcda5YNj362T1Iuw1yRVY8lz5I8podvLLghLl87qMeNBpLNs9dJDKmG7TsIUC0ZalxL35pe1pGBVZU6dLA==",
+      "type": "package",
+      "path": "selenium.support/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "images/icon.png",
+        "lib/net45/WebDriver.Support.dll",
+        "lib/net46/WebDriver.Support.dll",
+        "lib/net47/WebDriver.Support.dll",
+        "lib/net48/WebDriver.Support.dll",
+        "lib/net5.0/WebDriver.Support.dll",
+        "lib/netstandard2.0/WebDriver.Support.dll",
+        "lib/netstandard2.1/WebDriver.Support.dll",
+        "selenium.support.4.3.0.nupkg.sha512",
+        "selenium.support.nuspec"
+      ]
+    },
+    "Selenium.WebDriver/4.3.0": {
+      "sha512": "dDRbNrpzmII+ZnPLJF7ka2nygR/jnY0BfIl2rsyp1TJXQmr2ayv9tzq1ZBwqwRc1LkHC5zFAi1X3yboFWp0j+Q==",
+      "type": "package",
+      "path": "selenium.webdriver/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "images/icon.png",
+        "lib/net45/WebDriver.dll",
+        "lib/net46/WebDriver.dll",
+        "lib/net47/WebDriver.dll",
+        "lib/net48/WebDriver.dll",
+        "lib/net5.0/WebDriver.dll",
+        "lib/netstandard2.0/WebDriver.dll",
+        "lib/netstandard2.1/WebDriver.dll",
+        "selenium.webdriver.4.3.0.nupkg.sha512",
+        "selenium.webdriver.nuspec"
+      ]
+    },
+    "Selenium.WebDriver.ChromeDriver/104.0.5112.7900": {
+      "sha512": "vDH+7FqF4APZtvqyqtJ8XYTTh523EsUV88CpqW4d2xjxKjUp6ifpeLi9rDhnSuruDIoQDLJvRBZPI7UlcMTXOw==",
+      "type": "package",
+      "path": "selenium.webdriver.chromedriver/104.0.5112.7900",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "build/DefinePropertiesChromeDriver.targets",
+        "build/Selenium.WebDriver.ChromeDriver.targets",
+        "driver/linux64/chromedriver",
+        "driver/mac64/chromedriver",
+        "driver/mac64arm/chromedriver",
+        "driver/win32/chromedriver.exe",
+        "nupkg-icon.png",
+        "selenium.webdriver.chromedriver.104.0.5112.7900.nupkg.sha512",
+        "selenium.webdriver.chromedriver.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DotNetSeleniumExtras.WaitHelpers >= 3.11.0",
+      "Selenium.Firefox.WebDriver >= 0.27.0",
+      "Selenium.Opera.WebDriver >= 2.30.0",
+      "Selenium.Support >= 4.3.0",
+      "Selenium.WebDriver >= 4.3.0",
+      "Selenium.WebDriver.ChromeDriver >= 104.0.5112.7900"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\den_l\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\den_l\\Desktop\\UnDosTres_automation\\UnDosTres_automation\\UnDosTres_automation.csproj",
+      "projectName": "UnDosTres_automation",
+      "projectPath": "C:\\Users\\den_l\\Desktop\\UnDosTres_automation\\UnDosTres_automation\\UnDosTres_automation.csproj",
+      "packagesPath": "C:\\Users\\den_l\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\den_l\\Desktop\\UnDosTres_automation\\UnDosTres_automation\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\den_l\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "DotNetSeleniumExtras.WaitHelpers": {
+            "target": "Package",
+            "version": "[3.11.0, )"
+          },
+          "Selenium.Firefox.WebDriver": {
+            "target": "Package",
+            "version": "[0.27.0, )"
+          },
+          "Selenium.Opera.WebDriver": {
+            "target": "Package",
+            "version": "[2.30.0, )"
+          },
+          "Selenium.Support": {
+            "target": "Package",
+            "version": "[4.3.0, )"
+          },
+          "Selenium.WebDriver": {
+            "target": "Package",
+            "version": "[4.3.0, )"
+          },
+          "Selenium.WebDriver.ChromeDriver": {
+            "target": "Package",
+            "version": "[104.0.5112.7900, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

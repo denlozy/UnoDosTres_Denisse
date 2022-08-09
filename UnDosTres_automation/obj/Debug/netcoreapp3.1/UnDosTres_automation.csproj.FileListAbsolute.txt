@@ -1,0 +1,17 @@
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\bin\Debug\netcoreapp3.1\UnDosTres_automation.exe
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\bin\Debug\netcoreapp3.1\UnDosTres_automation.deps.json
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\bin\Debug\netcoreapp3.1\UnDosTres_automation.runtimeconfig.json
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\bin\Debug\netcoreapp3.1\UnDosTres_automation.runtimeconfig.dev.json
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\bin\Debug\netcoreapp3.1\UnDosTres_automation.dll
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\bin\Debug\netcoreapp3.1\UnDosTres_automation.pdb
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\obj\Debug\netcoreapp3.1\UnDosTres_automation.AssemblyInfoInputs.cache
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\obj\Debug\netcoreapp3.1\UnDosTres_automation.AssemblyInfo.cs
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\obj\Debug\netcoreapp3.1\UnDosTres_automation.csproj.CoreCompileInputs.cache
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\obj\Debug\netcoreapp3.1\UnDosTres_automation.csproj.CopyComplete
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\obj\Debug\netcoreapp3.1\UnDosTres_automation.dll
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\obj\Debug\netcoreapp3.1\UnDosTres_automation.pdb
+C:\Users\den_l\Desktop\UnDosTres_automation\UnDosTres_automation\obj\Debug\netcoreapp3.1\UnDosTres_automation.genruntimeconfig.cache

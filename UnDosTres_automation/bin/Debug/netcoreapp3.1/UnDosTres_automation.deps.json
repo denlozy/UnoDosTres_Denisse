@@ -1,0 +1,124 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UnDosTres_automation/1.0.0": {
+        "dependencies": {
+          "DotNetSeleniumExtras.WaitHelpers": "3.11.0",
+          "Selenium.Firefox.WebDriver": "0.27.0",
+          "Selenium.Opera.WebDriver": "2.30.0",
+          "Selenium.Support": "4.3.0",
+          "Selenium.WebDriver": "4.3.0",
+          "Selenium.WebDriver.ChromeDriver": "104.0.5112.7900"
+        },
+        "runtime": {
+          "UnDosTres_automation.dll": {}
+        }
+      },
+      "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SeleniumExtras.WaitHelpers.dll": {
+            "assemblyVersion": "3.11.0.0",
+            "fileVersion": "3.11.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Selenium.Firefox.WebDriver/0.27.0": {},
+      "Selenium.Opera.WebDriver/2.30.0": {},
+      "Selenium.Support/4.3.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.3.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/WebDriver.Support.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.3.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.1/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/104.0.5112.7900": {}
+    }
+  },
+  "libraries": {
+    "UnDosTres_automation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotNetSeleniumExtras.WaitHelpers/3.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xc6jVVl5ymgk3ZNWnC/KHxkEup1QpnwYbrwF+NQoCOGERsD8YMlLwmsX4lGhLXCLo/YQTRTIwlKCN9E/doGUNg==",
+      "path": "dotnetseleniumextras.waithelpers/3.11.0",
+      "hashPath": "dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Selenium.Firefox.WebDriver/0.27.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HwCaTaa+snzkLF7ZVaxKSmdttKm+KXT7HOY8c1q8p9E7x05+WHqw5XaZjUGFytVT1+0FkgUoH/u/I+csPLeJAg==",
+      "path": "selenium.firefox.webdriver/0.27.0",
+      "hashPath": "selenium.firefox.webdriver.0.27.0.nupkg.sha512"
+    },
+    "Selenium.Opera.WebDriver/2.30.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CHJpuU2QBsoXvorLpaqlTyMA2krzb9nXMnB68+ZjBh7+8VHbzRoCjmPW938i1qENoz7Ka7brc1JpX8aiIFGN2w==",
+      "path": "selenium.opera.webdriver/2.30.0",
+      "hashPath": "selenium.opera.webdriver.2.30.0.nupkg.sha512"
+    },
+    "Selenium.Support/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-78f5qcda5YNj362T1Iuw1yRVY8lz5I8podvLLghLl87qMeNBpLNs9dJDKmG7TsIUC0ZalxL35pe1pGBVZU6dLA==",
+      "path": "selenium.support/4.3.0",
+      "hashPath": "selenium.support.4.3.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dDRbNrpzmII+ZnPLJF7ka2nygR/jnY0BfIl2rsyp1TJXQmr2ayv9tzq1ZBwqwRc1LkHC5zFAi1X3yboFWp0j+Q==",
+      "path": "selenium.webdriver/4.3.0",
+      "hashPath": "selenium.webdriver.4.3.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/104.0.5112.7900": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vDH+7FqF4APZtvqyqtJ8XYTTh523EsUV88CpqW4d2xjxKjUp6ifpeLi9rDhnSuruDIoQDLJvRBZPI7UlcMTXOw==",
+      "path": "selenium.webdriver.chromedriver/104.0.5112.7900",
+      "hashPath": "selenium.webdriver.chromedriver.104.0.5112.7900.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "R8x/LiWdfCR5SbzM2D3KsXsedUKVCzuJ6QngfeTKRg0vEW/IF0o0P97Oxg11bG2KKHb21oCFo8w248YX5FcpQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\den_l\\Desktop\\UnDosTres_automation\\UnDosTres_automation\\UnDosTres_automation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\den_l\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\den_l\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\den_l\\.nuget\\packages\\selenium.firefox.webdriver\\0.27.0\\selenium.firefox.webdriver.0.27.0.nupkg.sha512",
+    "C:\\Users\\den_l\\.nuget\\packages\\selenium.opera.webdriver\\2.30.0\\selenium.opera.webdriver.2.30.0.nupkg.sha512",
+    "C:\\Users\\den_l\\.nuget\\packages\\selenium.support\\4.3.0\\selenium.support.4.3.0.nupkg.sha512",
+    "C:\\Users\\den_l\\.nuget\\packages\\selenium.webdriver\\4.3.0\\selenium.webdriver.4.3.0.nupkg.sha512",
+    "C:\\Users\\den_l\\.nuget\\packages\\selenium.webdriver.chromedriver\\104.0.5112.7900\\selenium.webdriver.chromedriver.104.0.5112.7900.nupkg.sha512"
+  ],
+  "logs": []
+}
